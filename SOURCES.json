@@ -1,0 +1,647 @@
+{
+  "base": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/",
+  "captured_at": "2026-09-29T20:54:43+00:00",
+  "files": {
+    "_raw/llms.txt": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/llms.txt",
+      "sha256": "481575813867373c5ca91dfd4055897298036bcb35665f3bed1df4773516ff23",
+      "bytes": 7097
+    },
+    "_raw/llms-full.txt": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/llms-full.txt",
+      "sha256": "37d14517bfcecfe2c7d145dfb05b875b93ddc3707d66887b3078d6ad7015e9fa",
+      "bytes": 201988
+    },
+    "_raw/md/hypercycle-community-beta-node-operator-program-cbno.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-community-beta-node-operator-program-cbno.md",
+      "sha256": "8fbd1152e90a6c3250d8e65fc253d9668aa0e32bc78a7ed9345a4160ba56d933",
+      "bytes": 3270
+    },
+    "_raw/html/hypercycle-community-beta-node-operator-program-cbno.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-community-beta-node-operator-program-cbno",
+      "sha256": "2258aa9dc5e0908d82754ebdfdcf1a40ba17778d7990363238b106467fc86b28",
+      "bytes": 417893
+    },
+    "docs/hypercycle-community-beta-node-operator-program-cbno.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-community-beta-node-operator-program-cbno.md",
+      "sha256": "7312ee80678155ee19596d33c53b49e66f6f7beaade3fa6e7fa1a2f6d4f9dc34",
+      "bytes": 2648
+    },
+    "_raw/md/ubuntu-server-install-windows-11-wsl-w-gpu-support.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/ubuntu-server-install-windows-11-wsl-w-gpu-support.md",
+      "sha256": "b96a680a66cf661c078f4510ef6683031e1e319a12dd96cd6d655adbaffb37a3",
+      "bytes": 7261
+    },
+    "_raw/html/ubuntu-server-install-windows-11-wsl-w-gpu-support.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/ubuntu-server-install-windows-11-wsl-w-gpu-support",
+      "sha256": "e795c83ffdc2e48f590ad1e9d2467a42b520f57794caf990ec8510bfdf83b8a7",
+      "bytes": 602169
+    },
+    "docs/ubuntu-server-install-windows-11-wsl-w-gpu-support.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/ubuntu-server-install-windows-11-wsl-w-gpu-support.md",
+      "sha256": "1c214ad254304c0e3b1293cf31c0ab820a17123b2cbf904521d78cca4bc47024",
+      "bytes": 6831
+    },
+    "_raw/md/ubuntu-server-install-windows-11-wsl-w-gpu-support/remove-wsl-windows-subsystem-for-linux.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/ubuntu-server-install-windows-11-wsl-w-gpu-support/remove-wsl-windows-subsystem-for-linux.md",
+      "sha256": "451c35fcc1e4683a3ff0074fd59ff52391904a24c8f3a5a00f3340d508fc9ec3",
+      "bytes": 1702
+    },
+    "_raw/html/ubuntu-server-install-windows-11-wsl-w-gpu-support/remove-wsl-windows-subsystem-for-linux.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/ubuntu-server-install-windows-11-wsl-w-gpu-support/remove-wsl-windows-subsystem-for-linux",
+      "sha256": "5fb503b75c8258e6f852162bb196caf5ebb0d0879b74f4eae9b8f41026569056",
+      "bytes": 394193
+    },
+    "docs/ubuntu-server-install-windows-11-wsl-w-gpu-support/remove-wsl-windows-subsystem-for-linux.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/ubuntu-server-install-windows-11-wsl-w-gpu-support/remove-wsl-windows-subsystem-for-linux.md",
+      "sha256": "800a41b02542564a841542e2a9434adcd598ae8e865995e737d09ddf986ecc5d",
+      "bytes": 1271
+    },
+    "_raw/md/ubuntu-server-install-windows-11-wsl-w-gpu-support/ubuntu-22.04-24.04-in-place-upgrade-guide.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/ubuntu-server-install-windows-11-wsl-w-gpu-support/ubuntu-22.04-24.04-in-place-upgrade-guide.md",
+      "sha256": "25fd2a7b059fdbdafea602b86721bef0c298ba1e44002f408a195a44450ce81b",
+      "bytes": 6711
+    },
+    "_raw/html/ubuntu-server-install-windows-11-wsl-w-gpu-support/ubuntu-22.04-24.04-in-place-upgrade-guide.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/ubuntu-server-install-windows-11-wsl-w-gpu-support/ubuntu-22.04-24.04-in-place-upgrade-guide",
+      "sha256": "313c19c6bc4800690775993d82386f011b85ea5f1ce811003755bea1b9aad484",
+      "bytes": 548633
+    },
+    "docs/ubuntu-server-install-windows-11-wsl-w-gpu-support/ubuntu-22.04-24.04-in-place-upgrade-guide.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/ubuntu-server-install-windows-11-wsl-w-gpu-support/ubuntu-22.04-24.04-in-place-upgrade-guide.md",
+      "sha256": "69a937f9b40b85219e3fb28978410853e73f0232ed2a4a43d15d23057bd4a532",
+      "bytes": 6277
+    },
+    "_raw/md/ubuntu-server-install-hyperv.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/ubuntu-server-install-hyperv.md",
+      "sha256": "5444acf05ae30df867560d36efd56ccc743843319e1aaa31f7e5dc08ac289510",
+      "bytes": 3420
+    },
+    "_raw/html/ubuntu-server-install-hyperv.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/ubuntu-server-install-hyperv",
+      "sha256": "4f24a5c1833484584b446937b5584734a67239b1a0808591600738f9c2b76c86",
+      "bytes": 474900
+    },
+    "docs/ubuntu-server-install-hyperv.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/ubuntu-server-install-hyperv.md",
+      "sha256": "60d1c9a104a4f1597fc7d23f64013adef0348be9ddfba95f213cd5841f8b4dd4",
+      "bytes": 3012
+    },
+    "_raw/md/hypercycle-node-install.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-node-install.md",
+      "sha256": "c2b97ede11bae98f71df6ef8ceeb52918d22a515b3bb9c857a659b103b822b7a",
+      "bytes": 4348
+    },
+    "_raw/html/hypercycle-node-install.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-node-install",
+      "sha256": "c559298df2a5c2df76f71baccaefb5613c4ec3b996793c952955afe9099e860a",
+      "bytes": 494433
+    },
+    "docs/hypercycle-node-install.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-node-install.md",
+      "sha256": "8f0917f3043430bd922fce726330de6d88ffde4f7e78312078e43c36a81d8573",
+      "bytes": 3831
+    },
+    "_raw/md/hypercycle-node-install/upgrade-node.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-node-install/upgrade-node.md",
+      "sha256": "516c4ae3dad9ef8c7ab571aac30ebc0b11e58fe53008adfd816ba965cad2e42d",
+      "bytes": 2045
+    },
+    "_raw/html/hypercycle-node-install/upgrade-node.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-node-install/upgrade-node",
+      "sha256": "a24fe36078c36056644ac43de2d8ce10a827c30efdfc049bc15ec71231240529",
+      "bytes": 398448
+    },
+    "docs/hypercycle-node-install/upgrade-node.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-node-install/upgrade-node.md",
+      "sha256": "0d7a52abedd5178beb83c12140a7286f3259a60d0a9982c347f18f3426bdacb2",
+      "bytes": 1667
+    },
+    "_raw/md/activating-your-node-manager-with-node-factory.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/activating-your-node-manager-with-node-factory.md",
+      "sha256": "911b8c929471ebb5cef250c4cb7fb84b34ed62da063729e47d7fa18057390082",
+      "bytes": 2807
+    },
+    "_raw/html/activating-your-node-manager-with-node-factory.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/activating-your-node-manager-with-node-factory",
+      "sha256": "7c9e1291bb276cd1ee616af3b6ebd7d07b5c6b1fc7ff2290e19153bbbd8d91a3",
+      "bytes": 398489
+    },
+    "docs/activating-your-node-manager-with-node-factory.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/activating-your-node-manager-with-node-factory.md",
+      "sha256": "c22cda602fada6fbb56f86a54d70ddab14a5fd4d42dfa7115055fa86ad43cdf4",
+      "bytes": 1759
+    },
+    "_raw/md/activating-your-node-manager-with-anfe.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/activating-your-node-manager-with-anfe.md",
+      "sha256": "7103b8045fd7a4417cd16d2b9cfcedd9f236d3b6de7e0019c77409008e74ae4c",
+      "bytes": 1975
+    },
+    "_raw/html/activating-your-node-manager-with-anfe.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/activating-your-node-manager-with-anfe",
+      "sha256": "b743c6c9650ae8fe455ebd5c08636e1caeb05d0b736d46267ca6a8d862716bd3",
+      "bytes": 369665
+    },
+    "docs/activating-your-node-manager-with-anfe.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/activating-your-node-manager-with-anfe.md",
+      "sha256": "cb5caefda64fe29807d9424aeb8c3523f096ff347befc25f2df709597bdfb020",
+      "bytes": 1199
+    },
+    "_raw/md/hypercycle-aim-deployment.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-aim-deployment.md",
+      "sha256": "af87ac2927d30df040d3ebb73fc2af5a760c3d13d24efa6a9cd958f190de120b",
+      "bytes": 10308
+    },
+    "_raw/html/hypercycle-aim-deployment.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-aim-deployment",
+      "sha256": "5e06c93c1dc3d5e7a73d7fa6932116d06fcfb767119f482150e545b88afd1465",
+      "bytes": 588959
+    },
+    "docs/hypercycle-aim-deployment.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-aim-deployment.md",
+      "sha256": "dec174a925c4d031318d92548a497478daf1152cc1d42abcf7205e0d24958a0b",
+      "bytes": 9431
+    },
+    "_raw/md/hypercycle-aim-deployment/deploy-boinc-aim-and-register-with-einstein-home.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-aim-deployment/deploy-boinc-aim-and-register-with-einstein-home.md",
+      "sha256": "76dde434f704ccb1a7bb4de44ba4cf871698bc2fcafcc37712dc25bf633f3120",
+      "bytes": 5811
+    },
+    "_raw/html/hypercycle-aim-deployment/deploy-boinc-aim-and-register-with-einstein-home.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-aim-deployment/deploy-boinc-aim-and-register-with-einstein-home",
+      "sha256": "3eadf63c1d13edd85503bfb8b2ea494155daf6c8e210a94db618b5197d9abaae",
+      "bytes": 471362
+    },
+    "docs/hypercycle-aim-deployment/deploy-boinc-aim-and-register-with-einstein-home.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-aim-deployment/deploy-boinc-aim-and-register-with-einstein-home.md",
+      "sha256": "8c2fe3c333d49086ccbe844cc2c5b87a1eeb87cb51a0e38a1f69a011f4461ba3",
+      "bytes": 5395
+    },
+    "_raw/md/hypercycle-aim-deployment/deploy-tortoise-text-to-speech-aim-w-voiceboard-ui-and-usdc-payments.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-aim-deployment/deploy-tortoise-text-to-speech-aim-w-voiceboard-ui-and-usdc-payments.md",
+      "sha256": "76bba744a36acd1081805b248ca451fffe6e35c40a2400a2a8c0ecd20a2e4067",
+      "bytes": 10264
+    },
+    "_raw/html/hypercycle-aim-deployment/deploy-tortoise-text-to-speech-aim-w-voiceboard-ui-and-usdc-payments.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-aim-deployment/deploy-tortoise-text-to-speech-aim-w-voiceboard-ui-and-usdc-payments",
+      "sha256": "682a3541f1bb322134dc5947eb27f3fd36e3bc893f6bc916df8a3629f42b514a",
+      "bytes": 520918
+    },
+    "docs/hypercycle-aim-deployment/deploy-tortoise-text-to-speech-aim-w-voiceboard-ui-and-usdc-payments.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-aim-deployment/deploy-tortoise-text-to-speech-aim-w-voiceboard-ui-and-usdc-payments.md",
+      "sha256": "922a347949e967fa0991e6b70037b95043d954a7e53f7b1ad7d96145b528abed",
+      "bytes": 9476
+    },
+    "_raw/md/hypercycle-aim-deployment/deploy-ollama-aim-w-ui-and-usdc-payments.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-aim-deployment/deploy-ollama-aim-w-ui-and-usdc-payments.md",
+      "sha256": "c6f27af9b74da055f949daa7bab96a095bbf2204608e4963ec1bc9b18e4d7c66",
+      "bytes": 12967
+    },
+    "_raw/html/hypercycle-aim-deployment/deploy-ollama-aim-w-ui-and-usdc-payments.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-aim-deployment/deploy-ollama-aim-w-ui-and-usdc-payments",
+      "sha256": "dde011cc2e32daeff0ee26f500034e6d8563332aa4ed29e2408995093871f1f8",
+      "bytes": 581626
+    },
+    "docs/hypercycle-aim-deployment/deploy-ollama-aim-w-ui-and-usdc-payments.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-aim-deployment/deploy-ollama-aim-w-ui-and-usdc-payments.md",
+      "sha256": "82c9735cf6a78bea918a36832574811e6d089bc85eb52954af0e18a18b1475b4",
+      "bytes": 12207
+    },
+    "_raw/md/hypercycle-aim-deployment/deploy-litellm-aim-w-ui-and-usdc-payments.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-aim-deployment/deploy-litellm-aim-w-ui-and-usdc-payments.md",
+      "sha256": "3a2b423e02bc231451493bca7a316acd0d7b21e07e8029c2c88746f1919475a7",
+      "bytes": 8296
+    },
+    "_raw/html/hypercycle-aim-deployment/deploy-litellm-aim-w-ui-and-usdc-payments.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-aim-deployment/deploy-litellm-aim-w-ui-and-usdc-payments",
+      "sha256": "18c83b122b333daa7337fd68af3db3d1388ab574dffd1b0c9206f73333e829bc",
+      "bytes": 473496
+    },
+    "docs/hypercycle-aim-deployment/deploy-litellm-aim-w-ui-and-usdc-payments.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-aim-deployment/deploy-litellm-aim-w-ui-and-usdc-payments.md",
+      "sha256": "707199190ebd16fb7ce48456d03054ae3555e3dd493d837fc48067743995a9ac",
+      "bytes": 7500
+    },
+    "_raw/md/hypercycle-developer-guide/developer-build-guide.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/developer-build-guide.md",
+      "sha256": "37c0f3a340e857138f03bb47ce94ee2f66f926db79237a7c4789cad04408ab4c",
+      "bytes": 6857
+    },
+    "_raw/html/hypercycle-developer-guide/developer-build-guide.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/developer-build-guide",
+      "sha256": "300bde1c1a74f88b0792ea5a1764856afdd03c0b6bad406ed16f6c07f74b020b",
+      "bytes": 594353
+    },
+    "docs/hypercycle-developer-guide/developer-build-guide.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/developer-build-guide.md",
+      "sha256": "cfba8cb0d57a59dce7a28cfa5d3c288fc3cb0cc0712a3e4c189209fd5a698895",
+      "bytes": 6291
+    },
+    "_raw/md/hypercycle-developer-guide/hypercycle-apis.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/hypercycle-apis.md",
+      "sha256": "7d238fa50197f8dc17e69519db43fde0343dfdad39b67b70c18fd3aed5118c5a",
+      "bytes": 13967
+    },
+    "_raw/html/hypercycle-developer-guide/hypercycle-apis.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/hypercycle-apis",
+      "sha256": "762ae02386a5658590ff282440235dbf1dae065e5932a0bc4f5384d9d1b40b6c",
+      "bytes": 747679
+    },
+    "docs/hypercycle-developer-guide/hypercycle-apis.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/hypercycle-apis.md",
+      "sha256": "e722e94f6b6b95efbb93bf9f65ecb73a519b940f27d9f1951a0891d1f57d82ea",
+      "bytes": 13055
+    },
+    "_raw/md/hypercycle-developer-guide/aim-building-guide.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide.md",
+      "sha256": "455b3f93dc5f8ceac078303a548a5b275955170dc7aa69f230ca2e1ab9698b5d",
+      "bytes": 6232
+    },
+    "_raw/html/hypercycle-developer-guide/aim-building-guide.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide",
+      "sha256": "8718e4a73e93defd7cf1fa5d6d59356ca82aadc44619e496e66ea2cfa959b6a9",
+      "bytes": 551615
+    },
+    "docs/hypercycle-developer-guide/aim-building-guide.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide.md",
+      "sha256": "65db46829428fa144623d7871bada2d120651baf8f9d3435c3e33b5dc28a6e0c",
+      "bytes": 5424
+    },
+    "_raw/md/hypercycle-developer-guide/aim-building-guide/aim-structure-and-files.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/aim-structure-and-files.md",
+      "sha256": "c1fcaceffff91ea6f8814e4db263d7bff7628abfc619a0fb3945f59e501bd8ef",
+      "bytes": 6876
+    },
+    "_raw/html/hypercycle-developer-guide/aim-building-guide/aim-structure-and-files.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/aim-structure-and-files",
+      "sha256": "ae4d2bf43b825b0bdb3fb72f791f7b4f33668d97ac01721632dce8714e870be3",
+      "bytes": 579979
+    },
+    "docs/hypercycle-developer-guide/aim-building-guide/aim-structure-and-files.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/aim-structure-and-files.md",
+      "sha256": "cd73520b3b86b503b5ddaffb59dcc2d4fce82f6df8bdc8c40a1fbff781a89f0c",
+      "bytes": 6305
+    },
+    "_raw/md/hypercycle-developer-guide/aim-building-guide/aim-structure-and-files/aim-dockerfile.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/aim-structure-and-files/aim-dockerfile.md",
+      "sha256": "ffad82b4a254c5935d8e398242e4137ab6fc079c0f184b86fcab2d3d3b005bc8",
+      "bytes": 6953
+    },
+    "_raw/html/hypercycle-developer-guide/aim-building-guide/aim-structure-and-files/aim-dockerfile.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/aim-structure-and-files/aim-dockerfile",
+      "sha256": "3c4a6671ffd42b0c7b0f0e4ffc298b7fc455ae2ee2a880914fab7f076d07d173",
+      "bytes": 489323
+    },
+    "docs/hypercycle-developer-guide/aim-building-guide/aim-structure-and-files/aim-dockerfile.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/aim-structure-and-files/aim-dockerfile.md",
+      "sha256": "0c46d6f70eae4b7ec634482dc10ad0f8a140db8aa4c5edf580f244bc6df09b8b",
+      "bytes": 6498
+    },
+    "_raw/md/hypercycle-developer-guide/aim-building-guide/aim-structure-and-files/aim-manifest-json.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/aim-structure-and-files/aim-manifest-json.md",
+      "sha256": "da734ac8f57cbe875bc483eaf00e311173539b5d2c008805b3759f060cc2ddf6",
+      "bytes": 8482
+    },
+    "_raw/html/hypercycle-developer-guide/aim-building-guide/aim-structure-and-files/aim-manifest-json.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/aim-structure-and-files/aim-manifest-json",
+      "sha256": "f2166370e775c1ea550746da13853229703b899a28683230d71fe35cf7194b3f",
+      "bytes": 604968
+    },
+    "docs/hypercycle-developer-guide/aim-building-guide/aim-structure-and-files/aim-manifest-json.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/aim-structure-and-files/aim-manifest-json.md",
+      "sha256": "a6ce93013cd09e9c25e39bf95c3525e4efb9b7c60d8ba01504c9330581026e74",
+      "bytes": 8053
+    },
+    "_raw/md/hypercycle-developer-guide/aim-building-guide/aim-structure-and-files/aim-main.py.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/aim-structure-and-files/aim-main.py.md",
+      "sha256": "21efca699cb36c0bc7a30128074ebbb746b3dc7a6ad85bb03eab4970e3dded7d",
+      "bytes": 6301
+    },
+    "_raw/html/hypercycle-developer-guide/aim-building-guide/aim-structure-and-files/aim-main.py.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/aim-structure-and-files/aim-main.py",
+      "sha256": "68d6703b32f97497c3127fb884a2bc9c6fb0303fc3f658834f8a033bd4d3cbfe",
+      "bytes": 987610
+    },
+    "docs/hypercycle-developer-guide/aim-building-guide/aim-structure-and-files/aim-main.py.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/aim-structure-and-files/aim-main.py.md",
+      "sha256": "39c2c3af03ffb45512fcecf47a3bf82eac6e5256e65bbfc8f50bec13aa56ed93",
+      "bytes": 5878
+    },
+    "_raw/md/hypercycle-developer-guide/aim-building-guide/aim-structure-and-files/aim-health-check.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/aim-structure-and-files/aim-health-check.md",
+      "sha256": "014dbd1ca960fe34f3e71c0168a95372cfd6e2f315658a984397a9fa077022b1",
+      "bytes": 3100
+    },
+    "_raw/html/hypercycle-developer-guide/aim-building-guide/aim-structure-and-files/aim-health-check.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/aim-structure-and-files/aim-health-check",
+      "sha256": "8f904443fc63c7ccb1cf9b801a58ec98b87db7eb32317ec0efb1e82766285a65",
+      "bytes": 471211
+    },
+    "docs/hypercycle-developer-guide/aim-building-guide/aim-structure-and-files/aim-health-check.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/aim-structure-and-files/aim-health-check.md",
+      "sha256": "81606c421f37c12e05faaabba35f1f61fdb9d4d6e84ae0e3529d83fae887c350",
+      "bytes": 2672
+    },
+    "_raw/md/hypercycle-developer-guide/aim-building-guide/endpoint-declaration-and-cost-logic.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/endpoint-declaration-and-cost-logic.md",
+      "sha256": "2f8a86f97104e2c08735983289ea9bcfacb2b6a44f0ed9f2aeeece6cb918a544",
+      "bytes": 8275
+    },
+    "_raw/html/hypercycle-developer-guide/aim-building-guide/endpoint-declaration-and-cost-logic.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/endpoint-declaration-and-cost-logic",
+      "sha256": "6f2f0751cde89f6f96875839ad84e8d1d069b9ba608ec05cefb5bdbbdf9a0726",
+      "bytes": 592269
+    },
+    "docs/hypercycle-developer-guide/aim-building-guide/endpoint-declaration-and-cost-logic.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/endpoint-declaration-and-cost-logic.md",
+      "sha256": "904e3aac1c02e038e6ebf3aa7748c8813e133762bf31d3970b9584e00983e80f",
+      "bytes": 7615
+    },
+    "_raw/md/hypercycle-developer-guide/aim-building-guide/concurrency-and-queues.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/concurrency-and-queues.md",
+      "sha256": "b386c0639257eb885b6b81bc2823f449ea67133923a76463056b73d3fdf9e064",
+      "bytes": 5433
+    },
+    "_raw/html/hypercycle-developer-guide/aim-building-guide/concurrency-and-queues.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/concurrency-and-queues",
+      "sha256": "68ec2adb6575415ad39184b467f677cbbf72b2032f83f38a55a16432c82f4afa",
+      "bytes": 554920
+    },
+    "docs/hypercycle-developer-guide/aim-building-guide/concurrency-and-queues.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/concurrency-and-queues.md",
+      "sha256": "2c2c7f5d273e827284a292c4a0e0de06f843e480f65951bf06ba8b5f03544d0f",
+      "bytes": 4786
+    },
+    "_raw/md/hypercycle-developer-guide/aim-building-guide/persistence-and-storage.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/persistence-and-storage.md",
+      "sha256": "7566360eb97b653252b82a03dac71db3571200ae500533d5e7e4a554c26b4aa3",
+      "bytes": 6188
+    },
+    "_raw/html/hypercycle-developer-guide/aim-building-guide/persistence-and-storage.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/persistence-and-storage",
+      "sha256": "3b7c971db99cd97305e66499e2792fa8f986113681ae292ac9ecba9948f077d0",
+      "bytes": 567660
+    },
+    "docs/hypercycle-developer-guide/aim-building-guide/persistence-and-storage.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/persistence-and-storage.md",
+      "sha256": "b0aef20fe26e393de7b8be1c7a4d07ae58da24e1a4ade8eb4f653e1d0d020944",
+      "bytes": 5745
+    },
+    "_raw/md/hypercycle-developer-guide/aim-building-guide/persistence-and-storage/example-cdn-aim.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/persistence-and-storage/example-cdn-aim.md",
+      "sha256": "6a28b93e809bb32db945a70c344e6bb47b72f50450d04f3670d05dfe4867908e",
+      "bytes": 7870
+    },
+    "_raw/html/hypercycle-developer-guide/aim-building-guide/persistence-and-storage/example-cdn-aim.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/persistence-and-storage/example-cdn-aim",
+      "sha256": "ef693beb01801a88ae0248356ef3b70615013e6c401d73d314b3a7837e7f0230",
+      "bytes": 617610
+    },
+    "docs/hypercycle-developer-guide/aim-building-guide/persistence-and-storage/example-cdn-aim.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/persistence-and-storage/example-cdn-aim.md",
+      "sha256": "06921a15f497fc19d5fbaa182b764070712ab6a6864d4c8eff68e7863839fbf4",
+      "bytes": 7385
+    },
+    "_raw/md/hypercycle-developer-guide/aim-building-guide/persistence-and-storage/example-cdn-aim/cdn-aim-main.py.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/persistence-and-storage/example-cdn-aim/cdn-aim-main.py.md",
+      "sha256": "2081d3b0054f5dda79e13720af96787d7bd16b44d84c26e7d0cee23fcba25ce6",
+      "bytes": 11399
+    },
+    "_raw/html/hypercycle-developer-guide/aim-building-guide/persistence-and-storage/example-cdn-aim/cdn-aim-main.py.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/persistence-and-storage/example-cdn-aim/cdn-aim-main.py",
+      "sha256": "b48d424103427dad7f0c2db00d4283226f57515bd7b4afdfd519e288866ca954",
+      "bytes": 1390654
+    },
+    "docs/hypercycle-developer-guide/aim-building-guide/persistence-and-storage/example-cdn-aim/cdn-aim-main.py.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/persistence-and-storage/example-cdn-aim/cdn-aim-main.py.md",
+      "sha256": "c1128e3ef130597c6e2876a6e63d3ea29b19e302655bbec4dcdb48ded0fad3a7",
+      "bytes": 10956
+    },
+    "_raw/md/hypercycle-developer-guide/aim-building-guide/subscriptions-and-pricing-models.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/subscriptions-and-pricing-models.md",
+      "sha256": "c08cab2acc67ba916eb666a3a38849584d897d5b6936d85c136d0503cc794582",
+      "bytes": 6813
+    },
+    "_raw/html/hypercycle-developer-guide/aim-building-guide/subscriptions-and-pricing-models.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/subscriptions-and-pricing-models",
+      "sha256": "e29adfed053297579566c80db4d014fcfed4e6116af8b8ddc88891d0aaf8321b",
+      "bytes": 620265
+    },
+    "docs/hypercycle-developer-guide/aim-building-guide/subscriptions-and-pricing-models.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/subscriptions-and-pricing-models.md",
+      "sha256": "6b95266c0936025011884599803f53a29d0021937ed4550076683c503845e52a",
+      "bytes": 6060
+    },
+    "_raw/md/hypercycle-developer-guide/aim-building-guide/external-ports-and-secure-access.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/external-ports-and-secure-access.md",
+      "sha256": "88262f2af50b7fdb0a1073f5eae52918b3d7cb0edfea6cab9c18b829abe44dbd",
+      "bytes": 5005
+    },
+    "_raw/html/hypercycle-developer-guide/aim-building-guide/external-ports-and-secure-access.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/external-ports-and-secure-access",
+      "sha256": "9f60f9d951dcaec3d3ef936beef4cbfe9759133adc6bf0f27433dff428ae8019",
+      "bytes": 536402
+    },
+    "docs/hypercycle-developer-guide/aim-building-guide/external-ports-and-secure-access.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/external-ports-and-secure-access.md",
+      "sha256": "e1230a7fabe704240864c5ba08e62c073bc5f6663396c91ed307f962621bcbb4",
+      "bytes": 4585
+    },
+    "_raw/md/hypercycle-developer-guide/aim-building-guide/external-ports-and-secure-access/secure-access-with-ssh-port-forwarding.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/external-ports-and-secure-access/secure-access-with-ssh-port-forwarding.md",
+      "sha256": "bf6802e483559681bdd817bcf1e827672339e48f805a3eefe02f795257ec0ad1",
+      "bytes": 10072
+    },
+    "_raw/html/hypercycle-developer-guide/aim-building-guide/external-ports-and-secure-access/secure-access-with-ssh-port-forwarding.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/external-ports-and-secure-access/secure-access-with-ssh-port-forwarding",
+      "sha256": "cf161e08deb92c03b16e4f0f628222342e887be3f0d4d29603a7f86a7c6fe8e1",
+      "bytes": 714475
+    },
+    "docs/hypercycle-developer-guide/aim-building-guide/external-ports-and-secure-access/secure-access-with-ssh-port-forwarding.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/aim-building-guide/external-ports-and-secure-access/secure-access-with-ssh-port-forwarding.md",
+      "sha256": "19e1b1c1f44629d4b8fe36825b14436f181f48f59aea022c4bdf2876a78d7627",
+      "bytes": 9584
+    },
+    "_raw/md/hypercycle-developer-guide/security-layers-conceptual-overview.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/security-layers-conceptual-overview.md",
+      "sha256": "9d5786519d98a52414a0cc884554d9e8dc0e3fa380e7749de40f2614ec46f094",
+      "bytes": 4972
+    },
+    "_raw/html/hypercycle-developer-guide/security-layers-conceptual-overview.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/security-layers-conceptual-overview",
+      "sha256": "be8e5405049adcf9203d9963d5f9ec4aa910c12c10790279f27792dae5a3d700",
+      "bytes": 421104
+    },
+    "docs/hypercycle-developer-guide/security-layers-conceptual-overview.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/security-layers-conceptual-overview.md",
+      "sha256": "4d15813b3af202fcf6c920f173edcad002dfd7002cdf8f3ead3d4a6e7e000526",
+      "bytes": 4568
+    },
+    "_raw/md/hypercycle-developer-guide/reference.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/reference.md",
+      "sha256": "911c0c385cdc5878fb48c007b8f9bc8a463742528e8671535b30f5809283c715",
+      "bytes": 809
+    },
+    "_raw/html/hypercycle-developer-guide/reference.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/reference",
+      "sha256": "2e4a654526d945eb73ba9b07b744acd51edbf942ea6d60646f689d0ff63021ad",
+      "bytes": 332629
+    },
+    "docs/hypercycle-developer-guide/reference.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/reference.md",
+      "sha256": "d9e2e372f14a159cef7bd1ec05fb4094872c9be890e1322331270e4ca8395015",
+      "bytes": 293
+    },
+    "_raw/md/hypercycle-developer-guide/reference/pyhypercycle-aim-library-usage.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/reference/pyhypercycle-aim-library-usage.md",
+      "sha256": "1caaf736c17c336db32e05d5ad698519aaabb690aad89299031bf3793b380cda",
+      "bytes": 4887
+    },
+    "_raw/html/hypercycle-developer-guide/reference/pyhypercycle-aim-library-usage.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/reference/pyhypercycle-aim-library-usage",
+      "sha256": "78ae91ac21e379dc7b994b20d1d06a2be66e63d70205a98aa8a594134d891b07",
+      "bytes": 556138
+    },
+    "docs/hypercycle-developer-guide/reference/pyhypercycle-aim-library-usage.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/reference/pyhypercycle-aim-library-usage.md",
+      "sha256": "f2e87f176ffab608b3960d41d4582a6a980cdd8dd1259928a29e7c69cee13a20",
+      "bytes": 4478
+    },
+    "_raw/md/hypercycle-developer-guide/reference/session-creation-workflow.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/reference/session-creation-workflow.md",
+      "sha256": "a233174d49984c1b70723e92f91d0027569da06c7c7ff227de2eb060aa07c8cf",
+      "bytes": 4646
+    },
+    "_raw/html/hypercycle-developer-guide/reference/session-creation-workflow.html": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/reference/session-creation-workflow",
+      "sha256": "087bea55675f25edb9cf17e3b66d7668e6e81d018afc7edb0878ac54dd5ebda2",
+      "bytes": 477418
+    },
+    "docs/hypercycle-developer-guide/reference/session-creation-workflow.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/hypercycle-developer-guide/reference/session-creation-workflow.md",
+      "sha256": "def8746c8facd71577e2d1600ad5435ab3023030ed9d130714a5df378103be26",
+      "bytes": 4242
+    },
+    "assets/0733a06723-Payment-Engine.png": {
+      "url": "https://4185285616-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FvxiQetCBl3kDURBqm0ta%2Fuploads%2FWjSqZrLTASB0eBQKEih0%2FPayment-Engine.png?alt=media&token=6ff2c46e-26fe-4dc0-a99e-466f165bc63b",
+      "sha256": "5f4f87d9db727546912597dda0f45a00ce095608de7378a9e08a9e92fde45b0b",
+      "bytes": 34750
+    },
+    "assets/10975ddcb9-0.jpeg": {
+      "url": "https://4185285616-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FvxiQetCBl3kDURBqm0ta%2Fuploads%2FtTELy5podhsAc0ECVG26%2F0.jpeg?alt=media",
+      "sha256": "893b7524f35372b9f5dcd58a2f357fde65ab6d0bf7270eb61408e43cb23ccd89",
+      "bytes": 60262
+    },
+    "assets/1539b9ec16-1.jpeg": {
+      "url": "https://4185285616-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FvxiQetCBl3kDURBqm0ta%2Fuploads%2FyyIVPMsR47zxV9QjUv7W%2F1.jpeg?alt=media",
+      "sha256": "68375d42b557b7974e971789fdfad38e9adf5efb523e91272133328e80c9554f",
+      "bytes": 68945
+    },
+    "assets/19552c2acd-Subvscription-Logic.png": {
+      "url": "https://3020620922-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FHIm70m3Kmltf5bJkSI4I%2Fuploads%2Fd1vEBqZHOYzHdLdvWeZY%2FSubvscription-Logic.png?alt=media&token=6b62bfae-81e2-4c1e-bc53-c9e177a3436e",
+      "sha256": "6967076bff59a2e8e43f41b68c6d4f0ebaddb13d766db76943fbaeed82eedcb2",
+      "bytes": 25507
+    },
+    "assets/25075ef258-SPEAK-cost-set.png": {
+      "url": "https://4185285616-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FvxiQetCBl3kDURBqm0ta%2Fuploads%2FJyZH4Ff0CUbN0obEdkzv%2FSPEAK-cost-set.png?alt=media&token=3ff2752c-36ef-462a-86bd-dfa5ee38f552",
+      "sha256": "f8d97e114adb89b5576c401b3cedf16562a78568c6c0f1fef56603842e4a5f53",
+      "bytes": 20024
+    },
+    "assets/2fb1b1185c-3.jpeg": {
+      "url": "https://4185285616-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FvxiQetCBl3kDURBqm0ta%2Fuploads%2FUgIb5mlkfketv9yjQ23I%2F3.jpeg?alt=media",
+      "sha256": "b2b5a52ec27fc1f77af10ecf825c419dfebcb577077e2639f896cbacbaca884a",
+      "bytes": 36200
+    },
+    "assets/3b8694fd52-4.png": {
+      "url": "https://4185285616-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FvxiQetCBl3kDURBqm0ta%2Fuploads%2Fd4cG6hjnwD3tDGLwcDL1%2F4.png?alt=media",
+      "sha256": "7c857b88c7210693486d9a0c454abbfc28f5602717d6979f5ef88e903ec7edff",
+      "bytes": 123981
+    },
+    "assets/43f56922e0-Cost_only-flow2.png": {
+      "url": "https://3020620922-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FHIm70m3Kmltf5bJkSI4I%2Fuploads%2FgqGWvQohD5GbNiTwkjZn%2FCost_only-flow2.png?alt=media&token=68913ef4-3cb1-4e80-ba13-406426ef8dad",
+      "sha256": "301c78c4ad83801bce39e1312f815ad3c86357e7903a76afde796f556d2e0cda",
+      "bytes": 29982
+    },
+    "assets/4eaf236c7d-NM-0.4.16.png": {
+      "url": "https://3020620922-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FHIm70m3Kmltf5bJkSI4I%2Fuploads%2FhcuqnBexALeboHwTWgkO%2FNM-0.4.16.png?alt=media&token=3d697080-c339-498d-9ec6-df0006993e0f",
+      "sha256": "f76c5a2af0830716015b918bf0fdfdabcfee0d8c4da94d1986ab2dcc9c4ab626",
+      "bytes": 84886
+    },
+    "assets/5576f2c1af-1.png": {
+      "url": "https://4185285616-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FvxiQetCBl3kDURBqm0ta%2Fuploads%2FicQnG0WxVcdTAj6w70oE%2F1.png?alt=media",
+      "sha256": "c96c01328af29442009f3b7357f3dd848f5bc84c77ac2af5539757b0fa89f580",
+      "bytes": 6113
+    },
+    "assets/5aee4dee3b-2.png": {
+      "url": "https://4185285616-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FvxiQetCBl3kDURBqm0ta%2Fuploads%2FZ1Y88ipw1Ar08sXC1wgc%2F2.png?alt=media",
+      "sha256": "fc357ace3878a5edd43410b652aa59e0a2ab815799fe1c241f07b7906309b322",
+      "bytes": 21368
+    },
+    "assets/5b7f960207-Financials.png": {
+      "url": "https://4185285616-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FvxiQetCBl3kDURBqm0ta%2Fuploads%2FflmIuWwzebQ6TvVSRbB8%2FFinancials.png?alt=media&token=fae8030c-2cfe-4cdb-9ed9-bb650bc61b3a",
+      "sha256": "2c726071a4ef7dda96fae52fa51bcdcc50e3c8314f55f997458a30e5eebab88e",
+      "bytes": 64867
+    },
+    "assets/6026cf7693-lite-llm-UI-scrnshot.png": {
+      "url": "https://4185285616-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FvxiQetCBl3kDURBqm0ta%2Fuploads%2F7bMimg5T0d7e4w3niiIr%2Flite-llm-UI-scrnshot.png?alt=media&token=a260c5ab-23f7-4490-9bfe-0f089a3c0136",
+      "sha256": "176bca88038365e1d51adaaf1057518aa5ed1a66359ae30975ef4492ed9debb3",
+      "bytes": 37785
+    },
+    "assets/8846f1ca6e-NM-Execution-Flow.png": {
+      "url": "https://3020620922-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FHIm70m3Kmltf5bJkSI4I%2Fuploads%2FTkhaba6MEP1pERdykpbx%2FNM-Execution-Flow.png?alt=media&token=ef449519-fc75-497e-83c7-98ee14d3f220",
+      "sha256": "6c7fc7034dbfbbdd7a6c5410869acacba44d6fc4590ec83fa3ec927267cc9650",
+      "bytes": 28563
+    },
+    "assets/b0e1ac4820-aim-cost-scrnshot.png": {
+      "url": "https://4185285616-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FvxiQetCBl3kDURBqm0ta%2Fuploads%2FbQqVzjuS0IUANKiGRqUJ%2Faim-cost-scrnshot.png?alt=media&token=99f89f17-ef3e-4f57-baa6-3125ae6b51a5",
+      "sha256": "c5fa00b3b770ef225a6d8e089e5423cfe025bdf6c6bd9711b4368721cd66ab5c",
+      "bytes": 16504
+    },
+    "assets/ba8fac024c-Client-NM-AIM-flow.png": {
+      "url": "https://3020620922-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FHIm70m3Kmltf5bJkSI4I%2Fuploads%2F9bLXPDzsPxWdHV6jdpvQ%2FClient-NM-AIM-flow.png?alt=media&token=abb09c5a-e677-4e7b-bcfd-2c6e55bd1fd1",
+      "sha256": "e1d3a79c314b8769258fe6b69bd1dd0caf4cc53900383502555e7fbb88c283af",
+      "bytes": 7838
+    },
+    "assets/be7e18891d-UI-scrnshot.png": {
+      "url": "https://4185285616-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FvxiQetCBl3kDURBqm0ta%2Fuploads%2FTwBCjKpJpoS7wdUx2cwx%2FUI-scrnshot.png?alt=media&token=260d2500-cdda-4325-a991-14fd571338f0",
+      "sha256": "dc53dee410642ff8332fd2bfa85d21eb4fd558fad13c98e1240cb689f75e3619",
+      "bytes": 37555
+    },
+    "assets/c26b1a8b22-Example-srnshot.png": {
+      "url": "https://4185285616-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FvxiQetCBl3kDURBqm0ta%2Fuploads%2FuSvM81NL7wFZVbF9DMbF%2FExample-srnshot.png?alt=media&token=a2519157-e4c1-4915-9e1b-286b361a74b4",
+      "sha256": "674977e87420586f8d8c3aef9fc2e0fce9523cd906440934e8effc3e313c6e70",
+      "bytes": 144112
+    },
+    "assets/c2dd67e5ac-Simple-Queue.png": {
+      "url": "https://3020620922-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FHIm70m3Kmltf5bJkSI4I%2Fuploads%2FOlK7I5ORnzlCG1idFi5Y%2FSimple-Queue.png?alt=media&token=c7a19890-1f10-4f06-aa90-c84a369e572c",
+      "sha256": "53ff56f939a2103470975623dd71544cc608ff4f781d3f3c0636e22bd4f66efa",
+      "bytes": 17016
+    },
+    "assets/cdff022447-0.png": {
+      "url": "https://4185285616-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FvxiQetCBl3kDURBqm0ta%2Fuploads%2FyBF1uQojwwbCAQj8udj5%2F0.png?alt=media",
+      "sha256": "3453080d0e5746577f8daa642436ad37f9c44ae88dd449b1142d9a89a2e8db8e",
+      "bytes": 49297
+    },
+    "assets/f1b5debffb-AIM-design-logic.png": {
+      "url": "https://3020620922-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FHIm70m3Kmltf5bJkSI4I%2Fuploads%2Fjcr3zcFkYYBzT72u8Hg6%2FAIM-design-logic.png?alt=media&token=be3f08c1-2c44-446d-a0c2-475341c6ee8e",
+      "sha256": "a4e98b416432bb4e66afcadcfdcc94e584d27f3c2bf44d40357d8219891d9474",
+      "bytes": 12093
+    },
+    "assets/fd8583b3e4-2.png": {
+      "url": "https://4185285616-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FvxiQetCBl3kDURBqm0ta%2Fuploads%2F5oEFcVtnnRJClBZrHZmT%2F2.png?alt=media",
+      "sha256": "243a8910c28429883df05776ee6aa6a2e3c1d6e67abdfefb7bbcf0fd4a414b1c",
+      "bytes": 59463
+    },
+    "assets/ff4150b4e7-Cost_only-flow.png": {
+      "url": "https://3020620922-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FHIm70m3Kmltf5bJkSI4I%2Fuploads%2F3MfHkKBfM9oizuRXSefK%2FCost_only-flow.png?alt=media&token=226ce66a-60fa-4641-9390-2be5dcb6c51a",
+      "sha256": "538354f50d2b235ce73c13c6257fcb88a7c31a51ca103da965da3175b5122e58",
+      "bytes": 29898
+    },
+    "README.md": {
+      "url": "https://hypercycle-cbno.gitbook.io/hypercycle-cbno/u57KauJomd55OVuTYz6e/",
+      "sha256": "b609385c894d7b01711f51a24ddfd0880c0ccd1a4e9daa13a2c46ab662ece171",
+      "bytes": 5181
+    }
+  },
+  "failed": []
+}
